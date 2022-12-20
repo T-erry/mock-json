@@ -1,0 +1,10 @@
+{
+    "name": "test-backend",
+    "description": "Build scripts for Railway",
+    "engines": {
+        "node": ">=14"
+    },
+    "dependencies": {
+        "json-server":"0.17.0"
+    }
+}
